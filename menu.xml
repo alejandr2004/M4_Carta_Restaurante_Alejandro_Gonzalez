@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    
+    <plato tipo="entrante">
+        <imagen src="Hamburguesa_Clásica_Angus.PNG"></imagen>
+        <nombre>Hamburguesa Clásica Angus</nombre>
+        <precio>Precio: $9.99</precio>
+        <descripcion>Jugosa carne de res Angus a la parrilla con queso cheddar derretido, lechuga fresca, tomate, cebolla y una generosa porción de salsa secreta.</descripcion>
+        <calorias>750</calorias>
+        <caracteristicas>Sabrosa, clásica y satisfactoria.</caracteristicas>
+    </plato>
+    <plato tipo="entrante">
+        <imagen src="Hamburguesa_Vegana_de_Portobello.PNG"></imagen>
+        <nombre>Hamburguesa Vegana de Portobello</nombre>
+        <precio>Precio: $11.50</precio>
+        <descripcion>Un portobello a la parrilla como base, acompañado de aguacate, tomate, brotes frescos y una mayonesa vegana de hierbas.</descripcion>
+        <calorias>480</calorias>
+        <caracteristicas>Saludable, sabrosa y apta para veganos.</caracteristicas>
+    </plato>
+    <plato tipo="entrante">
+        <imagen src="Hamburguesa BBQ Bacon.PNG"></imagen>
+        <nombre>Hamburguesa BBQ Bacon</nombre>
+        <precio>Precio: $12.99</precio>
+        <descripcion>Carne de res sazonada a la parrilla con queso americano, tocino crujiente, cebolla caramelizada y una abundante salsa barbacoa.</descripcion>
+        <calorias>820</calorias>
+        <caracteristicas>Ahumada, reconfortante y llena de sabor.</caracteristicas>
+    </plato>
+    
+    <plato tipo="entrante">
+        <imagen src="Hamburguesa_de_Salmon_Ahumado.PNG"></imagen>
+        <nombre>Hamburguesa de Salmón Ahumado</nombre>
+        <precio>Precio: $13.75</precio>
+        <descripcion>Filete de salmón fresco a la parrilla con queso suizo derretido, aguacate, cebolla roja encurtida y una salsa tártara casera.</descripcion>
+        <calorias>620</calorias>
+        <caracteristicas>Sofisticada, saludable y con un toque de mar.</caracteristicas>
+    </plato>
+    
+    <plato tipo="entrante">
+        <imagen src="Hamburguesa_Tex-Mex.PNG"></imagen>
+        <nombre>Hamburguesa Tex-Mex</nombre>
+        <precio>Precio: $10.25</precio>
+        <descripcion>Carne de res sazonada con especias tex-mex, jalapeños picantes, guacamole fresco, pico de gallo y una salsa chipotle cremosa.</descripcion>
+        <calorias>690</calorias>
+        <caracteristicas>Picante, vibrante y llena de sabor.</caracteristicas>
+    </plato>
+    
+    <plato tipo="entrante">
+        <imagen src="Hamburguesa_de_Pollo_Crispy.PNG"></imagen>
+        <nombre>Hamburguesa de Pollo Crispy</nombre>
+        <precio>Precio: $8.50</precio>
+        <descripcion>Pechuga de pollo empanizada y frita, con queso pepper jack, lechuga, tomate y una mayonesa de miel y mostaza.</descripcion>
+        <calorias>720</calorias>
+        <caracteristicas>Crujiente, jugosa y perfecta para los amantes del pollo.</caracteristicas>
+    </plato>
+    
+    <plato tipo="entrante">
+        <imagen src="Hamburguesa_Mediterránea.PNG"></imagen>
+        <nombre>Hamburguesa Mediterránea</nombre>
+        <precio>Precio: $11.99</precio>
+        <descripcion>Carne de cordero sazonada con hierbas mediterráneas, queso feta desmenuzado, tomate, pepino, aceitunas y una salsa de yogur con pepino.</descripcion>
+        <calorias>680</calorias>
+        <caracteristicas>Aromática, fresca y llena de ingredientes mediterráneos.</caracteristicas>
+    </plato>
+    
+    <plato tipo="entrante">
+        <imagen src="Hamburguesa_Hawaiana_Teriyaki.PNG"></imagen>
+        <nombre>Hamburguesa Hawaiana Teriyaki</nombre>
+        <precio>Precio: $12.25</precio>
+        <descripcion>Hamburguesa de ternera con rodajas de piña a la parrilla, jamón asado, queso suizo y una salsa teriyaki dulce.</descripcion>
+        <calorias>750</calorias>
+        <caracteristicas>Dulce, exótica y perfecta para una escapada tropical.</caracteristicas>
+    </plato>
+    
+    <plato tipo="entrante">
+        <imagen src="Hamburguesa_con_Queso_Azul.PNG"></imagen>
+        <nombre>Hamburguesa con Queso Azul</nombre>
+        <precio>Precio: $10.75</precio>
+        <descripcion>Carne de res a la parrilla con queso azul derretido, cebolla caramelizada, champiñones salteados y una mayonesa de queso azul.</descripcion>
+        <calorias>800</calorias>
+        <caracteristicas>Intenso sabor a queso, robusta y llena de carácter.</caracteristicas>
+    </plato>
+    
+    <plato tipo="principal">
+        <imagen src="Taco_de_Lengua.PNG"></imagen>
+        <nombre>Taco de Lengua</nombre>
+        <precio>Precio: $3.50</precio>
+        <descripcion>Tortilla de maíz rellena de tierna lengua de res cocida lentamente, cebolla caramelizada, cilantro fresco y salsa de tomate picante.</descripcion>
+        <calorias>380</calorias>
+        <caracteristicas>Exquisitamente tierno, con un sabor único y un toque picante.</caracteristicas>
+    </plato>
+    
+    <plato tipo="principal">
+        <imagen src="Taco_de_Pescado_Estilo_Baja.PNG"></imagen>
+        <nombre>Taco de Pescado Estilo Baja</nombre>
+        <precio>Precio: $4.25</precio>
+        <descripcion>Tortilla de maíz rellena de filete de pescado empanizado estilo Baja, repollo rallado, salsa de crema de cilantro y limón.</descripcion>
+        <calorias>350</calorias>
+        <caracteristicas>Crujiente por fuera, tierno por dentro, con un fresco sabor a mar.</caracteristicas>
+    </plato>
+    
+    <plato tipo="principal">
+        <imagen src="Taco_de_Al_Pastor.PNG"></imagen>
+        <nombre>Taco de Al Pastor</nombre>
+        <precio>Precio: $3.75</precio>
+        <descripcion>Tortilla de maíz rellena de carne de cerdo adobada al pastor, piña asada, cebolla y cilantro fresco.</descripcion>
+        <calorias>420</calorias>
+        <caracteristicas>Sabroso, con un equilibrio perfecto entre lo dulce y lo picante.</caracteristicas>
+    </plato>
+    
+    <plato tipo="principal">
+        <imagen src="Taco_de_Chorizo_y_Papa.PNG"></imagen>
+        <nombre>Taco de Chorizo y Papa</nombre>
+        <precio>Precio: $3.25</precio>
+        <descripcion>Tortilla de maíz rellena de chorizo ​​picante, papas doradas, cebolla caramelizada y cilantro fresco.</descripcion>
+        <calorias>400</calorias>
+        <caracteristicas>Picante, reconfortante y lleno de sabor.</caracteristicas>
+    </plato>
+    
+    <plato tipo="principal">
+        <imagen src="Taco_de_Cactus.PNG"></imagen>
+        <nombre>Taco de Cactus</nombre>
+        <precio>Precio: $3.00</precio>
+        <descripcion>Tortilla de maíz rellena de nopales tiernos cocidos, cebolla asada, tomate, cilantro fresco y salsa de chile verde.</descripcion>
+        <calorias>250</calorias>
+        <caracteristicas>Sabroso, nutritivo y con un toque de frescura.</caracteristicas>
+    </plato>
+    
+    
+    
+    <plato tipo="postre">
+        <imagen src="Helado_de_Vainilla.PNG"></imagen>
+        <nombre>Helado de Vainilla</nombre>
+        <precio>Precio: $3.99</precio>
+        <descripcion>Delicioso helado de vainilla cremoso, elaborado con vainas de vainilla de Madagascar y decorado con virutas de chocolate.</descripcion>
+        <calorias>250</calorias>
+        <caracteristicas>Clásico, suave y reconfortante.</caracteristicas>
+    </plato>
+    
+    <plato tipo="postre">
+        <imagen src="Helado de_Chocolate_Fudge.PNG"></imagen>
+        <nombre>Helado de Chocolate Fudge</nombre>
+        <precio>Precio: $4.50</precio>
+        <descripcion>Helado de chocolate intenso con remolinos de salsa de fudge, trozos de brownie y nueces tostadas.</descripcion>
+        <calorias>320</calorias>
+        <caracteristicas>Rico, indulgente y perfecto para los amantes del chocolate.</caracteristicas>
+    </plato>
+    
+    <plato tipo="postre">
+        <imagen src="Helado_de_Fresa_Fresca.PNG"></imagen>
+        <nombre>Helado de Fresa Fresca</nombre>
+        <precio>Precio: $3.75</precio>
+        <descripcion>Helado de fresa hecho con fresas frescas de temporada, con trozos de fruta real y un toque de jugo de limón.</descripcion>
+        <calorias>200</calorias>
+        <caracteristicas>Refrescante, frutal y lleno de sabor.</caracteristicas>
+    </plato>
+    
+    <plato tipo="postre">
+        <imagen src="Helado_de_Menta_Chip.PNG"></imagen>
+        <nombre>Helado de Menta Chip</nombre>
+        <precio>Precio: $4.25</precio>
+        <descripcion>Helado de menta cremoso con trozos de chocolate semiamargo y un toque de extracto de menta natural.</descripcion>
+        <calorias>280</calorias>
+        <caracteristicas>Fresco, aromático y lleno de textura.</caracteristicas>
+    </plato>
+    
+    <plato tipo="postre">
+        <imagen src="Helado_de_Tarta_de_Manzana.PNG"></imagen>
+        <nombre>Helado de Tarta de Manzana</nombre>
+        <precio>Precio: $4.75</precio>
+        <descripcion>Helado de crema de vainilla con trozos de tarta de manzana, canela y crujientes migas de galleta.</descripcion>
+        <calorias>350</calorias>
+        <caracteristicas>Dulce, reconfortante y con un toque de canela.</caracteristicas>
+    </plato>   
+</menu>
